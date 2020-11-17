@@ -1,6 +1,11 @@
 # Assignment_1
 Assignment 1 Kevin Khew
 
+## version 0.0.1
+Created index.html for testing
 
-# Change 1
+## version 0.0.2
 Added in home,project,resume,contact us html pages
+
+## version 0.0.3 
+Added in nav bar to all pages.
