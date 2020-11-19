@@ -9,3 +9,7 @@ Added in home,project,resume,contact us html pages
 
 ## version 0.0.3 
 Added in nav bar to all pages.
+
+## Version 0.1.0
+Updated header 
+Added footer to all pages.
