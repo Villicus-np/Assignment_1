@@ -16,3 +16,5 @@ Added footer to all pages.
 
 ## Version 0.1.1
 Added in relevant content for all pages.
+## Version 0.1.2
+Changed pathways to make it cleaner.
