@@ -18,3 +18,6 @@ Added footer to all pages.
 Added in relevant content for all pages.
 ## Version 0.1.2
 Changed pathways to make it cleaner.
+
+## Version 0.2.0
+Finished css for header and footer.
