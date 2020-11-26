@@ -25,7 +25,6 @@ Finished css for header and footer.
 ## Version 0.2.1
 Added in css for pages
 
-## To Do
-Need to Complete CSS for Contact us page
-Code mobile design out
-Finish the read me stuff
+## Version 0.2.2
+Finished Media Query 
+Need to fix footer for project page.
