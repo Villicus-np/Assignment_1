@@ -50,4 +50,4 @@ Added in css for pages
 Finished Media Query 
 
 ### Version 0.2.3
-Fixed the footer covering content. Test
+Fixed the footer covering content.
