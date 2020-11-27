@@ -160,10 +160,6 @@ form textarea {
   opacity: 1; /* Firefox */
 }
 
-input::focus {
-  background-color: rgb(184, 184, 184);
-}
-
 form button {
   margin: 10px;
   color: black;
@@ -231,6 +227,11 @@ form button {
 /* Media query 600px */
 @media screen and (max-width: 600px)
 {
+  body {
+    margin-bottom: 200px;
+    clear: both;
+ }
+ 
   .container {
     align-content: center;
     flex-wrap: wrap;
