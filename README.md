@@ -54,6 +54,4 @@ Fixed the footer covering content.
 <<<<<<< HEAD
 
 ### Version 0.2.4 
-Minor changes
-=======
->>>>>>> ce47139e6817b7d486c3a0493f1cf9e022ac8253
+minor changes
